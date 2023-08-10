@@ -1,0 +1,51 @@
+export default {
+    en: {
+        home: 'Home',
+        notifications: 'Notifications',
+        challenges: 'Challenges',
+        scoreboard: 'Scoreboard',
+        language: 'Language',
+        profile: 'Profile',
+        adminPanel:'Admin Panel',
+        login: 'Login',
+        register: 'Register',
+
+        welcome: 'Welcome CTFer!',
+        welcomeDescription: 'Click here to register an account and start to play the game!',
+        hello: 'Hello CTFer!',
+        helloDescription: 'Already have an account?Log in and have fun!',
+        LOGIN: 'LOGIN',
+        loginDescription: 'Please input your email/phone number and password',
+        forget: 'Forgot your password?',
+        signIn: 'SIGN IN',
+        createAccount: 'Create an Account',
+        signUpDescription: 'Please input the correct information!',
+        signUp: 'SIGN UP',
+
+
+
+    },
+    zh: {
+        home: '首页',
+        notifications: '通知',
+        challenges: '挑战',
+        scoreboard: '排行榜',
+        language: ' 切换语言',
+        profile: '用户',
+        adminPanel:'管理页面',
+        login: '登录',
+        register: '注册',
+
+        welcome: '欢迎，CTFer!',
+        welcomeDescription: '点击这里注册账号开始游戏吧！',
+        hello: '你好，CTFer！',
+        helloDescription: '已经有账号了？登录开始游戏吧！',
+        LOGIN: '登 入 账 号',
+        loginDescription: '请输入您的邮箱/手机号和密码',
+        forget: '忘记密码？',
+        signIn: '登 录',
+        createAccount: '创 建 账 号',
+        signUpDescription: '请输入正确的信息！',
+        signUp: '注 册',
+    },
+}
