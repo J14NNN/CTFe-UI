@@ -1,0 +1,1 @@
+const e=""+new URL("medal1-c057c3e6.png",import.meta.url).href,r=""+new URL("medal2-2871d5c2.png",import.meta.url).href,t=""+new URL("medal3-c91f27f5.png",import.meta.url).href,m=""+new URL("flag-d459b4a3.png",import.meta.url).href;export{e as _,r as a,t as b,m as c};
